@@ -1,0 +1,3 @@
+Router IP Address: 69
+Router Subnet Address: 69
+Router Netmask Address: 69
